@@ -1,1 +1,2 @@
 Code for A2
+This class requires to submit .py file. I made jupyter notebook and change it to python files. 
