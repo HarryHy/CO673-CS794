@@ -1,0 +1,4 @@
+This is code for Assignment 4
+Randomness may change the output
+This class requires to submit .py file.
+I finished my assignment in jupyter notebook and changed it to python file.
