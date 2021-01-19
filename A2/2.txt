@@ -1,3 +1,3 @@
 Code for A2
-This class requires to submit .py file. I made jupyter notebook and change it to python files. 
+This class requires to submit .py file. I made a jupyter notebook and change it to python files. 
 Different initialization may change the output
